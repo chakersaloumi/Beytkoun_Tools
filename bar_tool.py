@@ -39,8 +39,8 @@ if 'show_other_fields' not in st.session_state:
 drink_options = {
     '🍺 Beer': 3.0,
     '🌿 Arak': 4.0,
-    '🍾 Wine Bottle': 35.0,
-    '🍷 Wine Glass': 8.0,
+    '🍾 Wine Bottle': 32.0,
+    '🍷 Wine Glass': 7.5,
     '🔥 Doudou Shots': 2.0,
     '🥤 Soft Drink': 3.0,
     '➕ Other': None
